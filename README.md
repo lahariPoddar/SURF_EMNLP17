@@ -8,5 +8,5 @@ Currently the uploaded project contains the implementations of Author-ATS model 
 Please cite the paper if you use our implementation. 
 
 Thanks,
-Lahari Poddar
-http://www.comp.nus.edu.sg/~lahari/
+Lahari
+(http://www.comp.nus.edu.sg/~lahari/)
