@@ -1,0 +1,5 @@
+0=value,price,money,rate:reasonable,worth,cheap:expensive,not-worth
+1=room,bed,bathroom,rooms,tv,carpet,shower,pillow:big,comfy,clean,comfortable:small,dirty,noise,noisy,stain,shabby,smell
+2=location,traffic,walk,minute,blocks:convenient,easy,short,walking-distance,perfect,only:far
+3=staff,check,help,reservation,service,front-desk,desk:helpful,friendly,accommodating,upgrade:rude,bad,didn't,poor
+4=restaurant,food,breakfast,buffet,waffle,cereal:fresh,variety,good:bad,boring
